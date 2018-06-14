@@ -32,18 +32,33 @@ NM_004992.3:c.984C>A = NM_004992.3(MECP2_i001):p.(=)
 - p : notation protéique
 - (Arg255*) : substitution d'une arginine en un codon stop au 255ème codon
 - (=) : il s'agit d'une mutation silencieuse = l'acide aminé grâce à la redondance du code génétique n'est pas modifié malgré le variant
-
+(Cours)
 ### Q9
 NM_004992.3:c.763C>T = Il s’agit d’un variant en position 255 dans le transcrit NM_004992.3 du gène  MECP2 qui induit l'apparition d'un codon stop à la place de l'arginine 
 NM_004992.3:c.984C>A = Il s'agit d'un variant qui ne modifie pas la protéine, c'est une mutation silencieuse
+(Mutalyzer)
 
 ### Q10
 D'après RettBase
 - 984C>A : c'est une mutation silencieuse qui n'engendre pas de syndrome de Rett
 - 763C>T : cette mutation non-sens est associée chez tous les patients recensés à un syndrome de Rett classique, la mutation est associée au phénotype 
 Ainsi, on peut conclure que la mutation 763C>T est responsable du syndrome de Rett chez la patiente, puisqu'elle induit une protéine tronquée, et que tous les patients atteints par cette mutation sont atteints par le syndrome de Rett.
-
+(RettBase)
 ### Q11
+http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A153296506%2D153296526&hgsid=676703369_noDSAa8P3sI2XQwhdS5TniiMRsOm 
+(Mutalyzer vers UCSC)
+
+### Q12
+Le gène est sur le brin anti-sens (flèches vers la gauche) 
+(UCSC)
+
+### Q13
+Le gène comporte 4 exons.
+(UCSC)
+
+### Q14
+Ce variant se trouve dans l'exon 4.
+(UCSC)
 
 ## Exercice 2
 ### Q1
