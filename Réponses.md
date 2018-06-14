@@ -19,6 +19,16 @@ Ce gène se trove sur le chromosome X (Xq28)
 
 ### Q4
 La majorité des cas sont sporadiques, cependant les récurrences familiales suggèrent une transmission dominante liée à l'X.
+### Q5
+- La mutation est dominante donc tous les hétérozygotes porteurs du variant sont atteints (hommes comme femmes)
+- Les femmes porteuses saines doivent bénéficier d'une inactivation asymétrique du chromosome X portant sur l'allèle muté
+- (https://www.ncbi.nlm.nih.gov/pubmed/9326329) 
+
+### Q6
+- Il y a une abscence de transmission père-fils de la maladie 
+- La récurrence familiale peut être due à une mutation gonadique en mosaique chez un parent 
+- Le risque pour une femme d'avoir un enfant malade est de 50% 
+- (https://www.ncbi.nlm.nih.gov/pubmed/9326329) 
 
 ### Q7
 - NM_004992.3:c.763C>T = NM_004992.3(MECP2_i001):p.(Arg255*)
