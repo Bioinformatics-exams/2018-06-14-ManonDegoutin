@@ -72,6 +72,23 @@ Ce variant se trouve dans l'exon 4.
 
 ## Exercice 2
 ### Q1
-Texte de votre réponse…
+- a) OMIM est une base de données de maladies et de phénotypes associés à des mutations génétiques 
+- b) Developmental Disorders Genotype-Phenotype Database (DDG2P) est une base de données génétiques spécialisée dans les troubles du développement 
 ### Q2
-Texte de votre réponse…
+- Cette classification sert à la classififcation de variants selon leur suceptibilié à induire un cancer
+- Une autre classification est celle de l'AMCG (American College of Medical Genetics and Genomics ) : https://www.ncbi.nlm.nih.gov/pubmed/2574186
+
+### Q3
+- a) NM_001190274.1 = il s'agit du numéro de référence de la séquence sur NCBI (NCBI)
+- b) HGVS = il s'agit de la la Human Genome Variation Society, dont la nomenclature est la référence pour la littérature (http://www.hgvs.org/) 
+- c) GRCh37/hg19 human genome assembly = il s'agit du génome de référence (cours)
+
+### Q4
+### Q5
+Le séquençage de Sanger chez le patient et ses parents permet de connaitre leurs séquences nucléotidiques exactes pour les comparer :
+- la séquence du patient au génome de référence pour conclure sur l'existence d'un variant 
+- la séquence du patient à celles de ses parents pour conclure à une mutation de novo si un variant est présent uniquement chez l'enfant. 
+
+### Q6
+
+
