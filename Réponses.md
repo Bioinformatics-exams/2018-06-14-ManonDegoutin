@@ -84,11 +84,20 @@ Ce variant se trouve dans l'exon 4.
 - c) GRCh37/hg19 human genome assembly = il s'agit du génome de référence (cours)
 
 ### Q4
+- séquence haut débit de tout l'exome 
+- variant calling 
+- annotation des variants 
+- on garde uniquement les mutations de novo
+
 ### Q5
 Le séquençage de Sanger chez le patient et ses parents permet de connaitre leurs séquences nucléotidiques exactes pour les comparer :
 - la séquence du patient au génome de référence pour conclure sur l'existence d'un variant 
 - la séquence du patient à celles de ses parents pour conclure à une mutation de novo si un variant est présent uniquement chez l'enfant. 
 
 ### Q6
+- une mutation de novo dans la séquence du gène FBXO11 a été identifiée comme le seul variant délétère chez l'individu 1
+- chez l'individu 2 une mutation hétérozygote de novo dans l'exon 23 entrainant un frameshift a été identifié
 
-
+### Q7
+Les deux patients ont été identifiées comme ayant des mutations délétères dans le gène FBXO11 et présentent des phénotypes comparables. 
+La connaissance des fonctions du gène permet de cobnfirmer cette théorie. 
