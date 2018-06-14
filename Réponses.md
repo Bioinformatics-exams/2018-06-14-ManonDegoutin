@@ -21,8 +21,8 @@ Ce gène se trove sur le chromosome X (Xq28)
 La majorité des cas sont sporadiques, cependant les récurrences familiales suggèrent une transmission dominante liée à l'X.
 
 ### Q7
-NM_004992.3:c.763C>T = NM_004992.3(MECP2_i001):p.(Arg255*)
-NM_004992.3:c.984C>A = NM_004992.3(MECP2_i001):p.(=)
+- NM_004992.3:c.763C>T = NM_004992.3(MECP2_i001):p.(Arg255*)
+- NM_004992.3:c.984C>A = NM_004992.3(MECP2_i001):p.(=)
 (Mutalyzer)
 ### Q8
 - NM : mRNA
@@ -34,8 +34,8 @@ NM_004992.3:c.984C>A = NM_004992.3(MECP2_i001):p.(=)
 - (=) : il s'agit d'une mutation silencieuse = l'acide aminé grâce à la redondance du code génétique n'est pas modifié malgré le variant
 (Cours)
 ### Q9
-NM_004992.3:c.763C>T = Il s’agit d’un variant en position 255 dans le transcrit NM_004992.3 du gène  MECP2 qui induit l'apparition d'un codon stop à la place de l'arginine 
-NM_004992.3:c.984C>A = Il s'agit d'un variant qui ne modifie pas la protéine, c'est une mutation silencieuse
+- NM_004992.3:c.763C>T = Il s’agit d’un variant en position 255 dans le transcrit NM_004992.3 du gène  MECP2 qui induit l'apparition d'un codon stop à la place de l'arginine 
+- NM_004992.3:c.984C>A = Il s'agit d'un variant qui ne modifie pas la protéine, c'est une mutation silencieuse
 (Mutalyzer)
 
 ### Q10
