@@ -100,4 +100,4 @@ Le séquençage de Sanger chez le patient et ses parents permet de connaitre leu
 
 ### Q7
 Les deux patients ont été identifiées comme ayant des mutations délétères dans le gène FBXO11 et présentent des phénotypes comparables. 
-La connaissance des fonctions du gène permet de cobnfirmer cette théorie. 
+La connaissance des fonctions du gène permet de confirmer cette théorie. 
