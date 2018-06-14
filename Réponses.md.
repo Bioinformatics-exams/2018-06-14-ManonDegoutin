@@ -18,7 +18,21 @@ Ce gène se trove sur le chromosome X (Xq28)
 (OMIM)
 
 ### Q4
+La majorité des cas sont sporadiques, cependant les récurrences familiales suggèrent une transmission dominante liée à l'X.
 
+### Q7
+NM_004992.3:c.763C>T = NM_004992.3(MECP2_i001):p.(Arg255*)
+NM_004992.3:c.984C>A = NM_004992.3(MECP2_i001):p.(=)
+(Mutalyzer)
+### Q8
+- NM : mRNA
+- 004992 : numéro du transcrit
+- 3 : version du transcrit
+- (MECP2_i001) : nom du gène et numéro d’isoforme
+- p : notation protéique
+- (Arg255*) : substitution d'une arginine en un codon stop au 255ème codon
+- (=) : il s'agit d'une mutation silencieuse = l'acide aminé grâce à la redondance du code génétique n'est pas modifié malgré le variant
+NM_004992.3:c.763C>T = Il s’agit d’un variant en position 255 dans le transcrit NM_004992.3 du gène  SHOX , qui consiste en la substitution d’un acide glutamique par un acide aspartique
 ## Exercice 2
 ### Q1
 Texte de votre réponse…
